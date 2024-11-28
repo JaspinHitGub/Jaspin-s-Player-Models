@@ -26,4 +26,8 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
 
   ![Pomni](https://cdn.discordapp.com/attachments/1310972723912118353/1311746905855754300/image.png?ex=6749fb01&is=6748a981&hm=840bcaad147330b6530b20f792df4fc5fa2fdb106b396ae969de4ed2e215fdb1&)
 
+- [Beep Beep](https://cdn.discordapp.com/attachments/1310972723912118353/1311762862917685328/BeepBeep.cpmmodel?ex=674a09dd&is=6748b85d&hm=2b14fcd503d0874cc5a2bd7b1385ac7c54b310f74b45625d0f86cdcef9444cce&)
+
+  ![Beep Beep](https://cdn.discordapp.com/attachments/1310972723912118353/1311761227730518177/image.png?ex=674a0858&is=6748b6d8&hm=e5fad6bd0e907b5d539774bf464acb200aa8dbd230aa15c3c9d02780fa818001&)
+
   
