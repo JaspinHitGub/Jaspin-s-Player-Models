@@ -6,7 +6,8 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
 
 - [Jaspin](https://cdn.discordapp.com/attachments/1310972723912118353/1311745935386083328/Jaspin.cpmmodel?ex=6749fa1a&is=6748a89a&hm=3503702a6879191bcfdcfeb71b542a462cb08f40555a552b5395aa22cebebdf3&)
 
-  ![Jaspin](https://cdn.discordapp.com/attachments/1310972723912118353/1311747039180361849/image.png?ex=6749fb21&is=6748a9a1&hm=83bceac2eeee2fd524c91a9ca6bf1181bb3db76614b0d6dbc9f8cf8b4c2cdd49&)
+  ![Jaspin](https://github.com/user-attachments/assets/71b5746c-dad2-43a1-ab13-b552141512b2)
+
 
   
 - [Shane](https://cdn.discordapp.com/attachments/1310972723912118353/1311745936568881232/Shane.cpmmodel?ex=6749fa1a&is=6748a89a&hm=68b9f358c45f18b2bf62cae4927b03c4d91dbae3ec03a7c4d4b156945c4409d8&)
@@ -33,5 +34,7 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
 - [Sans](https://cdn.discordapp.com/attachments/1310972723912118353/1312243064315711488/Sans.cpmmodel?ex=674bc916&is=674a7796&hm=f8c0d9ca1e90a0e2fe06dc6f7a70ae44c904cd3b77050bce6dbba42fd1c9b333&)
 
   ![Sans](https://github.com/user-attachments/assets/94c05b56-5283-4b5f-b977-151e402fe06d)
+
+  
 
   
