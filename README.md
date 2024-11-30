@@ -30,4 +30,8 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
 
   ![Beep Beep](https://cdn.discordapp.com/attachments/1310972723912118353/1311761227730518177/image.png?ex=674a0858&is=6748b6d8&hm=e5fad6bd0e907b5d539774bf464acb200aa8dbd230aa15c3c9d02780fa818001&)
 
+- [Sans](https://cdn.discordapp.com/attachments/1310972723912118353/1312243064315711488/Sans.cpmmodel?ex=674bc916&is=674a7796&hm=f8c0d9ca1e90a0e2fe06dc6f7a70ae44c904cd3b77050bce6dbba42fd1c9b333&)
+
+  ![Sans](https://github.com/user-attachments/assets/94c05b56-5283-4b5f-b977-151e402fe06d)
+
   
