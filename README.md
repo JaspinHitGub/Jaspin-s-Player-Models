@@ -2,7 +2,8 @@
 
 Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models).
 
-### Currently Completed Models:
+<details open>
+  <summary>Completed Models</summary>
 
 - [Jaspin](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Jaspin.cpmmodel)
 
@@ -38,6 +39,18 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
 
   ![Sans](https://github.com/user-attachments/assets/94c05b56-5283-4b5f-b977-151e402fe06d)
 
-  
+  </details>
 
-  
+- [Jaspin](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Jaspin.cpmmodel)\
+
+- [Shane](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Shane.cpmmodel)
+
+- [Fennix](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Fennix.cpmmodel)
+
+- [Jesse](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Jesse.cpmmodel)
+
+- [Pomni](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Pomni.cpmmodel)
+
+- [Beep Beep](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/BeepBeep.cpmmodel)
+
+- [Sans](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Sans.cpmmodel)
