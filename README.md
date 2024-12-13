@@ -12,24 +12,27 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
   
 - [Shane](https://cdn.discordapp.com/attachments/1310972723912118353/1311745936568881232/Shane.cpmmodel?ex=6749fa1a&is=6748a89a&hm=68b9f358c45f18b2bf62cae4927b03c4d91dbae3ec03a7c4d4b156945c4409d8&)
 
-![Shane](https://cdn.discordapp.com/attachments/1310972723912118353/1311746957202427965/image.png?ex=6749fb0d&is=6748a98d&hm=84254b84cdc4b730f8c559f3d1d6fd4e563b0d7ef516fbd934d0cae18d2fb1ce&)
+![Shane](https://github.com/user-attachments/assets/99c804de-9bdf-4c98-b152-fadfb52ae83e)
+
 
 - [Fennix](https://cdn.discordapp.com/attachments/1310972723912118353/1311745934979366973/Fennix.cpmmodel?ex=6749fa19&is=6748a899&hm=91c8d6dce2b2cd154e79b56e7ea7691a9c0622f157305bb561b0d88abf4e3f81&)
 
-![Fennix[]()](https://cdn.discordapp.com/attachments/1310972723912118353/1311746843243184199/image.png?ex=6749faf2&is=6748a972&hm=3fc436b630bccd2242ef59b96b857ed39bcbe01c7302e0dde2b146649eb651e2&)
+![Fennix](https://github.com/user-attachments/assets/7c56ca57-011d-4769-98ba-f5d9111824b0)
 
   
 - [Jesse](https://cdn.discordapp.com/attachments/1310972723912118353/1311738910816210974/Jesse.cpmmodel?ex=6749f38f&is=6748a20f&hm=e936e629ec4a844240e73809a4e0805d8a16253f5e2a63be11af7b578edd0a02&)
   
-  ![Jesse](https://cdn.discordapp.com/attachments/1310972723912118353/1311738910459822211/image-23.png?ex=6749f38f&is=6748a20f&hm=ce87cd9c7119b6bf405cf75fc0a99a7f80a496496e4214b43e4276ab21127b50&)
+  ![Jesse](https://github.com/user-attachments/assets/72578359-0bdd-4470-8201-4fdf4c821c33)
+
   
 - [Pomni](https://cdn.discordapp.com/attachments/1310972723912118353/1311745936199778304/Pomni.cpmmodel?ex=6749fa1a&is=6748a89a&hm=7ad3198ac76cbb4ef97169182bf3307c0b55a9609cca6465cb25267d8a62a362&)
 
-  ![Pomni](https://cdn.discordapp.com/attachments/1310972723912118353/1311746905855754300/image.png?ex=6749fb01&is=6748a981&hm=840bcaad147330b6530b20f792df4fc5fa2fdb106b396ae969de4ed2e215fdb1&)
+  ![Pomni](https://github.com/user-attachments/assets/125700cd-f8cb-4c53-9ae8-eb210d7d3b3f)
 
 - [Beep Beep](https://cdn.discordapp.com/attachments/1310972723912118353/1311762862917685328/BeepBeep.cpmmodel?ex=674a09dd&is=6748b85d&hm=2b14fcd503d0874cc5a2bd7b1385ac7c54b310f74b45625d0f86cdcef9444cce&)
 
-  ![Beep Beep](https://cdn.discordapp.com/attachments/1310972723912118353/1311761227730518177/image.png?ex=674a0858&is=6748b6d8&hm=e5fad6bd0e907b5d539774bf464acb200aa8dbd230aa15c3c9d02780fa818001&)
+  ![Beep Beep](https://github.com/user-attachments/assets/773841c4-2f73-4cba-8ee9-95b03599c3cb)
+
 
 - [Sans](https://cdn.discordapp.com/attachments/1310972723912118353/1312243064315711488/Sans.cpmmodel?ex=674bc916&is=674a7796&hm=f8c0d9ca1e90a0e2fe06dc6f7a70ae44c904cd3b77050bce6dbba42fd1c9b333&)
 
