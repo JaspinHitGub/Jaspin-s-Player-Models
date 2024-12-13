@@ -41,7 +41,7 @@ Made using [Customizable Player Models](https://www.curseforge.com/minecraft/mc-
 
   </details>
 
-- [Jaspin](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Jaspin.cpmmodel)\
+- [Jaspin](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Jaspin.cpmmodel)
 
 - [Shane](https://github.com/JaspinHitGub/Jaspin-s-Player-Models/raw/refs/heads/main/Shane.cpmmodel)
 
